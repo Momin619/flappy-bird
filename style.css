@@ -1,0 +1,137 @@
+.obstacles {
+  width: 100%;
+  height: 700px;
+  border: 1px solid red;
+  overflow: hidden;
+  position: absolute;
+  top: 0%;
+}
+
+.obstacle {
+  background-color: red;
+
+  width: 20px;
+}
+
+.obtsacle1 {
+  height: 200px;
+  position: absolute;
+  left: 0%;
+}
+.obtsacle2 {
+  height: 300px;
+  position: absolute;
+  right: 10%;
+}
+
+.obtsacle1 {
+  height: 200px;
+  position: absolute;
+  left: 0%;
+}
+.obtsacle2 {
+  height: 300px;
+  position: absolute;
+  right: 10%;
+}
+
+.obtsacle3 {
+  height: 250px;
+  position: absolute;
+  left: 20%;
+}
+.obtsacle4 {
+  height: 200px;
+  position: absolute;
+  right: 30%;
+}
+.obtsacle5 {
+  height: 200px;
+  position: absolute;
+  left: 50%;
+}
+
+.obtsacle6 {
+  height: 240px;
+  position: absolute;
+  left: 60%;
+}
+.obtsacle7 {
+  height: 260px;
+  position: absolute;
+  left: 10%;
+}
+.obtsacle8 {
+  height: 350px;
+  position: absolute;
+  left: 15%;
+}
+.obtsacle9 {
+  height: 250px;
+  position: absolute;
+  left: 30%;
+}
+.obtsacle10 {
+  height: 260px;
+  position: absolute;
+  left: 40%;
+}
+
+.obtsacle11 {
+  height: 300px;
+  position: absolute;
+  bottom: 0%;
+  left: 0%;
+}
+.obtsacle12 {
+  height: 250px;
+  position: absolute;
+  bottom: 0%;
+  left: 10%;
+}
+.obtsacle13 {
+  height: 260px;
+  position: absolute;
+  bottom: 0%;
+  left: 20%;
+}
+.obtsacle14 {
+  height: 320px;
+  position: absolute;
+  bottom: 0%;
+  left: 30%;
+}
+.obtsacle15 {
+  height: 300px;
+  position: absolute;
+  bottom: 0%;
+  left: 40%;
+}
+.obtsacle16 {
+  height: 370px;
+  position: absolute;
+  bottom: 0%;
+  left: 50%;
+}
+.obtsacle17 {
+  height: 320px;
+  position: absolute;
+  bottom: 0%;
+  left: 60%;
+}
+.obtsacle18 {
+  height: 380px;
+  position: absolute;
+  bottom: 0%;
+  left: 70%;
+}
+.obtsacle19 {
+  height: 350px;
+  position: absolute;
+  bottom: 0%;
+  left: 80%;
+}
+.bird {
+  position: absolute;
+  top: 40%;
+}
